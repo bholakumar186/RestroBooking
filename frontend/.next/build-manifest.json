@@ -1,0 +1,42 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-42372ed130431b0a.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/-ezn4Wapsbu8c9EyuYrMa/_buildManifest.js",
+    "static/-ezn4Wapsbu8c9EyuYrMa/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pages": {
+    "/": [
+      "static/chunks/webpack-2b27ea450f39e731.js",
+      "static/chunks/framework-a4ddb9b21624b39b.js",
+      "static/chunks/main-40e151073ba9b914.js",
+      "static/chunks/335-a086c0de61d1bd51.js",
+      "static/chunks/pages/index-9d01a0d6e67cc6ab.js"
+    ],
+    "/BookingForm": [
+      "static/chunks/webpack-2b27ea450f39e731.js",
+      "static/chunks/framework-a4ddb9b21624b39b.js",
+      "static/chunks/main-40e151073ba9b914.js",
+      "static/chunks/pages/BookingForm-0b357a5144b1f5a9.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-2b27ea450f39e731.js",
+      "static/chunks/framework-a4ddb9b21624b39b.js",
+      "static/chunks/main-40e151073ba9b914.js",
+      "static/css/8f9b3a65deabadb0.css",
+      "static/chunks/pages/_app-0203a97b51327b56.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-2b27ea450f39e731.js",
+      "static/chunks/framework-a4ddb9b21624b39b.js",
+      "static/chunks/main-40e151073ba9b914.js",
+      "static/chunks/pages/_error-83eac0d438baeb80.js"
+    ]
+  },
+  "ampFirstPages": []
+}
